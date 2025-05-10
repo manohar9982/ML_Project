@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/datascience/ml%20project/mlruns/0/24852e86ad404d8e9a45eb00fc8d7ed0/artifacts
+end_time: 1746867643989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24852e86ad404d8e9a45eb00fc8d7ed0
+run_name: spiffy-auk-157
+run_uuid: 24852e86ad404d8e9a45eb00fc8d7ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746867632010
+status: 3
+tags: []
+user_id: root
